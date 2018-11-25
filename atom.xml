@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-25T09:59:15.969Z</updated>
+  <updated>2018-11-25T12:27:18.837Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CSS布局</title>
+    <link href="http://yoursite.com/2018/11/25/CSS%E5%B8%83%E5%B1%80/"/>
+    <id>http://yoursite.com/2018/11/25/CSS布局/</id>
+    <published>2018-11-25T12:08:26.000Z</published>
+    <updated>2018-11-25T12:27:18.837Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="DIV-CSS布局"><a href="#DIV-CSS布局" class="headerlink" title="DIV+CSS布局"></a>DIV+CSS布局</h1><h2 id="CSS权重"><a href="#CSS权重" class="headerlink" title="CSS权重"></a>CSS权重</h2><ul><li>！imporant         infinity</li><li>行间样式            1000</li><li>id选择器            100</li><li>类选择器|属性|伪类   10</li><li>标签选择器|伪元素    1</li><li>通配符              0<h2 id="盒模型"><a href="#盒模型" class="headerlink" title="盒模型"></a>盒模型</h2></li></ul><ol><li>边框默认的样式可设置为不显示</li><li>填充值（padding）不可为负</li><li>边界值（margin）可以为负</li><li>内联元素，例如超链接，定义上下边界不会影响到行高</li><li>对于块级元素，未浮动的垂直相邻的元素的上边界和下边界会被压缩，例如上面元素下边界为10px，下面元素上边界为5px，则实际两个元素的间距为10px</li><li>浮动元素边界不压缩，并且如不声明宽度，则其宽度趋向于0</li><li>如果盒中没有内容，即使定义了宽高都为100%，实际只占0%，因此不会显示<h2 id="布局"><a href="#布局" class="headerlink" title="布局"></a>布局</h2></li><li>两列固定宽高浮动布局<br>两个大小相等的div左浮</li><li>两列宽度自适应布局<br>一个div30%，一个div70%，左浮</li><li>两列右列宽度自适应布局<br>左栏设置宽度，浮动；右栏不设置宽度，不浮动</li><li>两列固定宽度居中布局<br>“””<br><div margin:0="" auto=""><br> <div><pre><code>height:400px;weight:400px;float:left;</code></pre> </div><br> <div><pre><code>height:400px;weight:400px;float:left;</code></pre> </div><br></div><br>“””</li><li>三列浮动中间列宽度自适应<br>左边：absolute；top：0；left:0<br>右边：absolute；top：0；left:0<br>中间：margin：0 200px 0 200px</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;DIV-CSS布局&quot;&gt;&lt;a href=&quot;#DIV-CSS布局&quot; class=&quot;headerlink&quot; title=&quot;DIV+CSS布局&quot;&gt;&lt;/a&gt;DIV+CSS布局&lt;/h1&gt;&lt;h2 id=&quot;CSS权重&quot;&gt;&lt;a href=&quot;#CSS权重&quot; class=&quot;header
+      
+    
+    </summary>
+    
+      <category term="知识点" scheme="http://yoursite.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    
+    
+      <category term="CSS" scheme="http://yoursite.com/tags/CSS/"/>
+    
+      <category term="div" scheme="http://yoursite.com/tags/div/"/>
+    
+  </entry>
   
   <entry>
     <title>倒霉的一天</title>
