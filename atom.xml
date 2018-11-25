@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-25T09:44:54.354Z</updated>
+  <updated>2018-11-25T09:59:15.969Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/11/25/%E4%B8%8D%E9%A1%BA%E7%9A%84%E4%B8%80%E5%A4%A9/"/>
     <id>http://yoursite.com/2018/11/25/不顺的一天/</id>
     <published>2018-11-25T09:31:22.000Z</published>
-    <updated>2018-11-25T09:44:54.354Z</updated>
+    <updated>2018-11-25T09:59:15.969Z</updated>
     
     <content type="html"><![CDATA[<h1 id="倒霉的一天"><a href="#倒霉的一天" class="headerlink" title="倒霉的一天"></a>倒霉的一天</h1><p></p><p style="text-indent:2em">昨天不知怎么了失眠了，直到早上三四点的时候才睡着，然后8点就醒了，打开手机发现主管7点多在群里@我，赶紧回了她消息。9点出发去图书馆，找了好久都没找到知乎上推荐的书，就挑了本比较新的div+CSS布局看，复习一下前面学的知识，看完到了12点多，因为银行就在隔壁，想着去加班处理一下堆积的账户资料。走出图书馆一看，下雨了，没带伞，而且我也没带抽屉的钥匙，于是回家拿。</p><p></p><p></p><p style="text-indent:2em">等再到银行已经3点多了，加了两个小时的班，现在是17:39，我在家里写下这篇文章，最近真的是诸事不顺，特别丧，间断性斗志昂扬，有时害怕找不到工作，不想学了，有时候又学的连吃饭都顾不上。</p><p></p><p></p><p style="text-indent:2em">我不知道未来会怎么样，人总是对未知事物抱有恐惧，不愿改变，希望将来的我会感谢现在的自己</p>&gt;<p></p>]]></content>
     
@@ -34,6 +34,10 @@
     
     </summary>
     
+      <category term="心路历程" scheme="http://yoursite.com/categories/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    
+    
+      <category term="倒霉" scheme="http://yoursite.com/tags/%E5%80%92%E9%9C%89/"/>
     
   </entry>
   
@@ -42,7 +46,7 @@
     <link href="http://yoursite.com/2018/11/24/%E6%89%AC%E5%B8%86%EF%BC%81%E5%90%AF%E8%88%AA%EF%BC%81/"/>
     <id>http://yoursite.com/2018/11/24/扬帆！启航！/</id>
     <published>2018-11-24T10:41:01.000Z</published>
-    <updated>2018-11-24T13:05:39.462Z</updated>
+    <updated>2018-11-25T09:59:29.514Z</updated>
     
     <content type="html"><![CDATA[<h1 id="新的开始！"><a href="#新的开始！" class="headerlink" title="新的开始！"></a>新的开始！</h1><p style="text-indent:2em">现在是2018/11/24 20:41，我终于搭建好了自己的个人博客，写下人生中第一篇博客，虽然整体还很粗糙，一些样式也没弄好，但是好歹建出来了。</p><br><p style="text-indent:2em">我是一个正在企图转行前端的girl，大学学的国际经济与贸易，18届，毕业前在一家保险公司做营销管理，工资不高但工作轻松，跟室友一起，每天高高兴兴，然而毕业后去了家乡的某商业银行当柜员，经历了半年的痛苦工作，至今还在后悔当初听了家人的话回到了家乡，虽然知道他们是希望我好。每天上班都希望出个车祸，这样就不用上班了，情绪极度压抑。后来觉得不能这样下去，我才24岁，就已经没有了生活的热情，于是在网上搜索转行的信息。一开始是想去做数据分析，觉得数据蛮有趣的，再加上之前有接触到一点，便是在网上学习数据分析的课程，但效率并不高。偶然之下接触到了前端了，惊为天人，前端真是太有意思了！而且最重要的是入门快啊！我真的受不了银行的工作了，于是决定裸辞啦！做这个决定也是纠结了很久，知乎上的前端相关问题差不多都看过了，转行的问题也看了很多，什么初级前端饱和了，互联网寒冬来了，从银行辞职后悔了……我是一个喜欢留后路的人（银行就是我当初留的后路，结果害了自己），如果辞职就一点后路都没有了，而且我是决定自学的，毕竟穷上不起培训班，我不知道之后能不能找到工作，但即使这样，我也要辞职，学下去！人生还有将近40年时间要工作，要么做喜欢的工作，要么做擅长的工作，银行两者都不占，我不走，留着过年嘛!</p><br><p style="text-indent:2em">之前一个月每天断断续续地学，效率并不高，从12月开始就开始高考模式啦！每天都会写博客，更新自己的知识。</p>]]></content>
     
@@ -55,6 +59,10 @@
     
     </summary>
     
+      <category term="心路历程" scheme="http://yoursite.com/categories/%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B/"/>
+    
+    
+      <category term="新篇章" scheme="http://yoursite.com/tags/%E6%96%B0%E7%AF%87%E7%AB%A0/"/>
     
   </entry>
   
